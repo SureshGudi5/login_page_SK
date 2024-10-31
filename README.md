@@ -1,5 +1,4 @@
-# login_page
-Next.js
+# Next.js Login and Data Table Application
 Login Page:
 Built using Formik for form handling and validation.
 
